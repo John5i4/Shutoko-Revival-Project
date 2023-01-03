@@ -7,16 +7,21 @@
 !cpu - Gives a list of tweaks to fix 99% CPU usage
 !cracked - Explains that we dont support piracy
 !color - Explains how to change car color online
+!controller - A preset for gamepads that is comfortable to use
 !deletesrp - How to delete SRP
 !fastday - Shows instructions on how to fix fast day-night transitions in SOL-enabled servers.
 !gdrive - A way to bypass Google Drive's download limit - only to be used if all official links are exhausted
 !guid - What info to provide for a ban appeal
 !guide - Complete CM + CSP + SOL + SRP guide + checklist
 !handshake - How 2 fix server connection issues
+!lights - How to toggle your headlights
+!lookback - How to fix your camera being stuck in the Glance back state
+!manualcars - How to manually install the car pack
+!manaualtrack - How to manually install the track
 !map - Explains how to fix the offset minimap
-!name - How 2 change your name
+!name - How to change your name
 !neverjoinedbutbanned - what do?
-!nowhere - How 2 fix stuck camera with Origin Shift
+!nowhere - How to fix stuck camera with Origin Shift
 !nsx - Where the NSX go?
 !png - Shows instructions on how to change AC's screenshot format to PNG.
 !postlogs - Self explained
@@ -34,5 +39,6 @@
 !topits - How and why you should assign a teleport to pits button
 !verify - Show you how to repair through Steam
 !vr - Info 4 VR and VR nametags
+!weirdlighting - A fix to some lighting issues that may be caused by SOL
 !wrongplane - Explains that people need to alter the far plane, not the near plane
 !zeroes - How to fix the 0xc00007b error
