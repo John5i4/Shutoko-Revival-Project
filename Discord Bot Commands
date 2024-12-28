@@ -10,11 +10,13 @@
 !cracked - Explains that we dont support piracy
 !color - Explains how to change car color online
 !controller - A preset for gamepads that is comfortable to use
+!controls - How to set up your controls
 !deletesrp - How to delete SRP
+!dlc - Shows what DLC is needed for SRP servers + what to do if you dont have it
 !fastday - Shows instructions on how to fix fast day-night transitions in SOL-enabled servers.
 !gdrive - A way to bypass Google Drive's download limit - only to be used if all official links are exhausted
 !guid - What info to provide for a ban appeal
-!guide - Complete CM + CSP + SOL + SRP guide + checklist
+!guide [OUTDATED - Waiting for new guides] - Complete CM + CSP + SOL + SRP guide + checklist
 !handshake - How 2 fix server connection issues
 !lights - How to toggle your headlights
 !lightsfix - Fix broke lights with CSP 0.2.5
@@ -34,11 +36,13 @@
 !rain - Explains patreon CSP
 !rc - List of common "Race Cancelled" fixes
 !requirements - Shows you what you need to run SRP, both software and hardware
+!res - How to fix resolution/display issues
 !reshade - Explains why and how to remove reshade
 !reverb - Explains crashes from incorrect layouts
 !screen - Explains how to take a quick screenshot 
 !shaders - Shaders Patch setup instructions and video
 !shaking - Explanation to why cars shake on SRP
+!showcm - Asks for people to send a screenshot of CM before they try to start the game. Useful for helpers.
 !sky - Explains how to fix black/odd sky
 !snow - Explains why trees are white
 !sol - Explains how to download and install SOL
