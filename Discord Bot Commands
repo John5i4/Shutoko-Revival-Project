@@ -1,38 +1,37 @@
-!7zip - Self explained
-!ai - Info about the unofficial AI and why you shouldn't use it
+!7zip - How to get 7zip
+!ai - Info about how to add AI in SRP
 !ainotmoving - Shows a video explaining that there's no traffic around shibaura PA and you gotta drive a bit to see it 
-!brightness - Explains how to fix super-bright game
-!cache - Explains (again) that you gotta install the cache files for the AI to work.
+!brightness - How to fix super-bright game
+!cache [OUTDATED - Newer CSP seems to have broken this workaround/our files need redoing] - Explains (again) that you gotta install the cache files for the AI to work.
 !chat - How and why you should enable chat in game
-!checksum - Explain how to fix checksum error.
+!checksum - How to fix checksum error
 !cm - How to update CM
-!cpu - Gives a list of tweaks to fix 99% CPU usage
+!cpu - List of tweaks to fix 99% CPU usage
 !cracked - Explains that we dont support piracy
 !color - Explains how to change car color online
 !controller - A preset for gamepads that is comfortable to use
 !controls - How to set up your controls
 !deletesrp - How to delete SRP
-!dlc - Shows what DLC is needed for SRP servers + what to do if you dont have it
+!dlc - What DLC is needed for SRP servers + what to do if you dont have it
 !fastday - Shows instructions on how to fix fast day-night transitions in SOL-enabled servers.
 !gdrive - A way to bypass Google Drive's download limit - only to be used if all official links are exhausted
 !guid - What info to provide for a ban appeal
 !guide [OUTDATED - Waiting for new guides] - Complete CM + CSP + SOL + SRP guide + checklist
 !handshake - How 2 fix server connection issues
 !lights - How to toggle your headlights
-!lightsfix - Fix broke lights with CSP 0.2.5
-!lil - LET IT LOAD - Tells people to wait for the AI layout to load
-!lookback - How to fix your camera being stuck in the Glance back state
+!lil - (LET IT LOAD) Tells people to wait for the AI layout to load. Useful for helpers.
+!lookback - How to fix your camera being stuck in the "Glance Back" state
 !manualcars - How to manually install the car pack
 !manualtrack - How to manually install the track
 !myserver - Link to AssettoServer Discord and guide for making your own server
 !name - How to change your name
-!neverjoinedbutbanned - what do?
+!neverjoinedbutbanned - How to fix an incorrect ban message (it wont work if you actually got banned)
 !nofloor - Explains why the floor is missing
-!notice - Contains Need-to-know stuff (if needed)
+!notice - Contains Need-to-know stuff (This command's contents change over time, depending on what is important to know at the time)
 !nowhere - How to fix stuck camera with Origin Shift
-!nsx - Where the NSX go?
+!nsx - Where did the NSX go?
 !png - Shows instructions on how to change AC's screenshot format to PNG.
-!postlogs - Self explained
+!postlogs - Shows users how to post their log.txt file so people can help them with crashes. Useful for helpers.
 !rain - Explains patreon CSP
 !rc - List of common "Race Cancelled" fixes
 !requirements - Shows you what you need to run SRP, both software and hardware
@@ -40,18 +39,18 @@
 !reshade - Explains why and how to remove reshade
 !reverb - Explains crashes from incorrect layouts
 !screen - Explains how to take a quick screenshot 
-!shaders - Shaders Patch setup instructions and video
-!shaking - Explanation to why cars shake on SRP
+!shaders - Shaders Patch setup instructions
+!shaking - Explanation to why cars shake on SRP (These days its rare for the fix to not be auto-applied)
 !showcm - Asks for people to send a screenshot of CM before they try to start the game. Useful for helpers.
 !sky - Explains how to fix black/odd sky
 !snow - Explains why trees are white
 !sol - Explains how to download and install SOL
 !steamauth - Explains what to do in case of Steam Authentication Failed error
-!supra - for people asking where one gets the ks_toyota_supra_mkiv_tuned from
+!supra - For people asking where one gets the ks_toyota_supra_mkiv_tuned from (its in the Steam DLC)
 !topits - How and why you should assign a teleport to pits button
 !tp - How to teleport to various spots around the track
 !verify - Show you how to repair through Steam
 !vr - Info 4 VR and VR nametags
 !weirdlighting - A fix to some lighting issues that may be caused by SOL
-!wrongplane - Explains that people need to alter the far plane, not the near plane
+!wrongplane - Shows how to reset Far/Near plane values (a lot of people do them wrong because of SRP 0.9.1 - in 0.9.3 its not needed to be changed at all)
 !zeroes - How to fix the 0xc00007b error
