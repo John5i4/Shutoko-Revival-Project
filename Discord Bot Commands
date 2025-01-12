@@ -33,6 +33,7 @@
 !png - Shows instructions on how to change AC's screenshot format to PNG.
 !postlogs - Shows users how to post their log.txt file so people can help them with crashes. Useful for helpers.
 !rain - Explains patreon CSP
+!ram - Explains how to tweak the page file for extra memory
 !rc - List of common "Race Cancelled" fixes
 !requirements - Shows you what you need to run SRP, both software and hardware
 !res - How to fix resolution/display issues
